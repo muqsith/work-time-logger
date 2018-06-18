@@ -1,8 +1,8 @@
-package com.wtl.impl;
+package com.wtl.service.impl;
 
 import java.util.Date;
 
-import com.wtl.TimeLogger;
+import com.wtl.service.TimeLogger;
 
 public class TimeLoggerImpl implements TimeLogger {
 
