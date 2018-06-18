@@ -1,5 +1,5 @@
 package com.wtl.service.impl;
 
-public class Report {
+public class ReportImpl {
 
 }
