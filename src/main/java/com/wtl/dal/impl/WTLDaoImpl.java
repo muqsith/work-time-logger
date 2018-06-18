@@ -10,18 +10,6 @@ import com.wtl.dto.Settings;
 public class WTLDaoImpl implements WTLDao {
 
 	@Override
-	public void loadDatabase() {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public void saveDatabase() {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
 	public Day getDay(Date day) {
 		// TODO Auto-generated method stub
 		return null;

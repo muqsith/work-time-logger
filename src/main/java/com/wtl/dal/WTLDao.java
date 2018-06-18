@@ -7,8 +7,6 @@ import com.wtl.dto.Day;
 import com.wtl.dto.Settings;
 
 public interface WTLDao {
-	void loadDatabase();
-	void saveDatabase();
 	Day getDay(Date day);
 	Day getDay(String id);
 	List<Day> getDays(Date from, Date till);
