@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<worktime-logger>
+	<days>
+		<row id="1001" logdate="SUN Jun 24 18:17:30 +04 2018"></row>
+		<row id="1002" logdate="Mon Jun 25 18:17:30 +04 2018"></row>
+		<row id="1003" logdate="TUE Jun 26 18:17:30 +04 2018"></row>
+		<!--
+			many such rows as above
+			.
+			.
+			.			 
+		 -->
+	</days>
+	<worklog>
+		<row id="2001" dayid="1001" event="login" logtime="SUN Jun 24 09:17:30 +04 2018"></row>
+		<row id="2002" dayid="1001" event="logout" logtime="SUN Jun 24 12:05:30 +04 2018"></row>
+		<row id="2003" dayid="1001" event="login" logtime="SUN Jun 24 13:26:30 +04 2018"></row>
+		<row id="2004" dayid="1001" event="logout" logtime="SUN Jun 24 18:17:30 +04 2018"></row>
+		
+		<row id="2005" dayid="1002" event="login" logtime="SUN Jun 25 08:47:30 +04 2018"></row>
+		<row id="2006" dayid="1002" event="logout" logtime="SUN Jun 25 17:55:30 +04 2018"></row>
+		
+		<row id="2007" dayid="1003" event="login" logtime="SUN Jun 26 09:14:30 +04 2018"></row>
+		<row id="2008" dayid="1003" event="logout" logtime="SUN Jun 26 18:47:30 +04 2018"></row>
+		<!--
+			many such rows as above
+			.
+			.
+			.			 
+		 -->
+	</worklog>
+	<settings>
+		<row id="3001" name="com.wtl.dailyWorkDuration" value="9h" desc="Daily work duration in hours"></row>
+		<row id="3002" name="com.wtl.weekOff" value="6,7" desc="Off in weekdays, value is the index of the day (6 Friday, 7 Saturday)"></row>
+		<row id="3003" name="com.wtl.userName" value="Muqsith Irfan" desc="App user's name"></row>
+		<!--
+			many such rows as above
+			.
+			.
+			.			 
+		 -->
+	</settings>
+</worktime-logger>

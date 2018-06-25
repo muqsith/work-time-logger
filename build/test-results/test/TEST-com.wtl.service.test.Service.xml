@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wtl.service.test.Service" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-06-18T15:06:11" hostname="kurnool" time="0.0">
+  <properties/>
+  <testcase name="testSetSettings" classname="com.wtl.service.test.Service" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<worktime-logger>
+	<days>
+		<!-- June, 2018 -->
+		<row id="1001" logdate="2018-06-03T08:30:11.264Z"></row>
+		<row id="1002" logdate="2018-06-04T08:30:11.264Z"></row>
+		<row id="1003" logdate="2018-06-06T08:30:11.264Z"></row>
+		<row id="1004" logdate="2018-06-07T08:30:11.264Z"></row>
+		<row id="1005" logdate="2018-06-10T08:30:11.264Z"></row>
+		<row id="1006" logdate="2018-06-11T08:30:11.264Z"></row>
+		<row id="1007" logdate="2018-06-12T08:30:11.264Z"></row>
+		<row id="1008" logdate="2018-06-13T08:30:11.264Z"></row>
+		<row id="1009" logdate="2018-06-14T08:30:11.264Z"></row>
+		<row id="1010" logdate="2018-06-17T08:30:11.264Z"></row>
+		<row id="1011" logdate="2018-06-18T08:30:11.264Z"></row>
+		<row id="1012" logdate="2018-06-19T08:30:11.264Z"></row>
+		<row id="1013" logdate="2018-06-20T08:30:11.264Z"></row>
+		<row id="1014" logdate="2018-06-21T08:30:11.264Z"></row>
+		<row id="1015" logdate="2018-06-24T08:30:11.264Z"></row>
+		<row id="1016" logdate="2018-06-25T08:30:11.264Z"></row>
+		<row id="1017" logdate="2018-06-26T08:30:11.264Z"></row>
+		<row id="1018" logdate="2018-06-27T08:30:11.264Z"></row>
+		<row id="1019" logdate="2018-06-28T08:30:11.264Z"></row>
+	</days>
+	
+	<worklog>
+		<row id="2001" dayid="1001" event="login" logtime="2018-06-03T08:30:11.264Z"></row>
+		<row id="2002" dayid="1001" event="logout" logtime="2018-06-03T12:05:11.264Z"></row>
+		<row id="2003" dayid="1001" event="login" logtime="2018-06-03T13:30:11.264Z"></row>
+		<row id="2004" dayid="1001" event="logout" logtime="2018-06-03T18:30:11.264Z"></row>
+		
+		<row id="2005" dayid="1002" event="login" logtime="2018-06-04T08:30:11.264Z"></row>
+		<row id="2006" dayid="1002" event="logout" logtime="2018-06-04T17:30:11.264Z"></row>
+		
+		<row id="2007" dayid="1003" event="login" logtime="2018-06-06T08:30:11.264Z"></row>
+		<row id="2008" dayid="1003" event="logout" logtime="2018-06-06T17:30:11.264Z"></row>
+		
+		<row id="2009" dayid="1004" event="login" logtime="2018-06-07T08:30:11.264Z"></row>
+		<row id="2010" dayid="1004" event="logout" logtime="2018-06-07T17:30:11.264Z"></row>
+
+		<row id="2011" dayid="1005" event="login" logtime="2018-06-10T08:30:11.264Z"></row>
+		<row id="2012" dayid="1005" event="logout" logtime="2018-06-10T16:30:11.264Z"></row>
+		
+		<row id="2013" dayid="1006" event="login" logtime="2018-06-11T08:30:11.264Z"></row>
+		<row id="2014" dayid="1006" event="logout" logtime="2018-06-11T17:30:11.264Z"></row>
+		
+		<row id="2015" dayid="1007" event="login" logtime="2018-06-12T08:30:11.264Z"></row>
+		<row id="2016" dayid="1007" event="logout" logtime="2018-06-12T16:55:11.264Z"></row>
+		
+		<row id="2017" dayid="1008" event="login" logtime="2018-06-13T08:30:11.264Z"></row>
+		<row id="2018" dayid="1008" event="logout" logtime="2018-06-13T11:30:11.264Z"></row>
+		<row id="2019" dayid="1008" event="login" logtime="2018-06-13T12:30:11.264Z"></row>
+		<row id="2020" dayid="1008" event="logout" logtime="2018-06-13T17:30:11.264Z"></row>
+		
+		<row id="2021" dayid="1009" event="login" logtime="2018-06-14T08:30:11.264Z"></row>
+		<row id="2021" dayid="1009" event="logout" logtime="2018-06-14T17:30:11.264Z"></row>
+		
+		<row id="2022" dayid="1010" event="login" logtime="2018-06-17T08:30:11.264Z"></row>
+		<row id="2023" dayid="1010" event="logout" logtime="2018-06-17T18:30:11.264Z"></row>
+		
+		<row id="2024" dayid="1011" event="login" logtime="2018-06-18T08:30:11.264Z"></row>
+		<row id="2025" dayid="1011" event="logout" logtime="2018-06-18T17:30:11.264Z"></row>
+		
+		<row id="2026" dayid="1012" event="login" logtime="2018-06-19T08:30:11.264Z"></row>
+		<row id="2027" dayid="1012" event="logout" logtime="2018-06-19T17:30:11.264Z"></row>
+		
+		<row id="2028" dayid="1013" event="login" logtime="2018-06-20T08:30:11.264Z"></row>
+		<row id="2029" dayid="1013" event="logout" logtime="2018-06-20T17:30:11.264Z"></row>
+		
+		<row id="2030" dayid="1014" event="login" logtime="2018-06-21T08:30:11.264Z"></row>
+		<row id="2031" dayid="1014" event="logout" logtime="2018-06-21T17:30:11.264Z"></row>
+		
+		<row id="2032" dayid="1015" event="login" logtime="2018-06-24T08:30:11.264Z"></row>
+		<row id="2033" dayid="1015" event="logout" logtime="2018-06-24T18:30:11.264Z"></row>
+		
+		<row id="2034" dayid="1016" event="login" logtime="2018-06-24T08:30:11.264Z"></row>
+		<row id="2035" dayid="1016" event="logout" logtime="2018-06-25T12:10:11.264Z"></row>
+		<row id="2036" dayid="1016" event="login" logtime="2018-06-25T13:30:11.264Z"></row>
+		<row id="2037" dayid="1016" event="logout" logtime="2018-06-25T19:30:11.264Z"></row>
+		
+		<row id="2038" dayid="1017" event="login" logtime="2018-06-26T08:30:11.264Z"></row>
+		<row id="2039" dayid="1017" event="logout" logtime="2018-06-26T17:30:11.264Z"></row>
+		
+		<row id="2038" dayid="1018" event="login" logtime="2018-06-27T09:30:11.264Z"></row>
+		<row id="2039" dayid="1018" event="logout" logtime="2018-06-27T18:30:11.264Z"></row>
+		
+		<row id="2038" dayid="1019" event="login" logtime="2018-06-28T08:30:11.264Z"></row>
+		<row id="2039" dayid="1019" event="logout" logtime="2018-06-28T18:30:11.264Z"></row>
+				
+	</worklog>
+	
+	
+	<settings>
+		<row id="3001" name="com.wtl.dailyWorkDuration" value="9h" desc="Daily work duration in hours"></row>
+		<row id="3002" name="com.wtl.weekOff" value="6,7" desc="Off in weekdays, value is the index of the day (6 Friday, 7 Saturday)"></row>
+		<row id="3003" name="com.wtl.userName" value="Muqsith Irfan" desc="App user's name"></row>
+		<!--
+			many such rows as above
+			.
+			.
+			.			 
+		 -->
+	</settings>
+</worktime-logger>
